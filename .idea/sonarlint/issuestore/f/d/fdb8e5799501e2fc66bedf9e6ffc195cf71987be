@@ -1,3 +1,7 @@
 
-esquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(²Ú±Ž
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôù•þÿÿÿÿ8‡ÅœÞ½-
+Tsquid:S1905 "1Remove this unnecessary cast to "NavigationView".(‹«°ÿÿÿÿÿ8¯‘‘á½-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôù•þÿÿÿÿ8‡ÅœÞ½-
+Rsquid:S1905"/Remove this unnecessary cast to "DrawerLayout".(ûþÜÈþÿÿÿÿ8¯‘‘á½-
+\"squid:SwitchLastCaseIsDefaultCheck8""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ8Ýøæá½-
+esquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(Žƒ¿
+Msquid:S1905"*Remove this unnecessary cast to "Toolbar".(«ó·øÿÿÿÿ8¸éá½-

@@ -1,3 +1,23 @@
 
 t
 Dapp/src/main/java/com/afrifuturae/navigationdrawer/MainActivity.java,f\d\fdb8e5799501e2fc66bedf9e6ffc195cf71987be
+h
+8app/src/main/res/drawable/ic_delete_sweep_black_24dp.xml,7\6\7654cccb5e842c7dfeb4c114b6b0ffdfc58e5745
+a
+1app/src/main/res/drawable/ic_email_black_24dp.xml,c\a\ca17f278ec4d1a6f384ff033faec934f29c3abe5
+V
+&app/src/main/res/drawable/ic_inbox.xml,d\0\d00a512dc32a8558aac1220ff0975c64b5ec7648
+U
+%app/src/main/res/drawable/ic_menu.xml,7\b\7bf861a5c61c6218a982bd9bed96a5add575d484
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+]
+-app/src/main/res/layout/navigation_header.xml,1\6\166f007849da919a38a0f4886498252b90383836
+Y
+)app/src/main/res/menu/navigation_menu.xml,8\0\80fd50c4b50a9a4593b19cea2fba8c61d05a903b
+]
+-app/src/main/res/layout/navigation_drawer.xml,b\5\b5519199d5c0b5007f867ad107d1c9410e553768
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
